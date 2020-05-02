@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Minhajuddink7/image-gallery/static/css/main.832c525a.chunk.css",
+    "main.js": "/Minhajuddink7/image-gallery/static/js/main.246ce329.chunk.js",
+    "main.js.map": "/Minhajuddink7/image-gallery/static/js/main.246ce329.chunk.js.map",
+    "runtime-main.js": "/Minhajuddink7/image-gallery/static/js/runtime-main.bf09eece.js",
+    "runtime-main.js.map": "/Minhajuddink7/image-gallery/static/js/runtime-main.bf09eece.js.map",
+    "static/js/2.52264eca.chunk.js": "/Minhajuddink7/image-gallery/static/js/2.52264eca.chunk.js",
+    "static/js/2.52264eca.chunk.js.map": "/Minhajuddink7/image-gallery/static/js/2.52264eca.chunk.js.map",
+    "index.html": "/Minhajuddink7/image-gallery/index.html",
+    "precache-manifest.3f895a8bf9954e0d86cd2f133926fa68.js": "/Minhajuddink7/image-gallery/precache-manifest.3f895a8bf9954e0d86cd2f133926fa68.js",
+    "service-worker.js": "/Minhajuddink7/image-gallery/service-worker.js",
+    "static/css/main.832c525a.chunk.css.map": "/Minhajuddink7/image-gallery/static/css/main.832c525a.chunk.css.map",
+    "static/js/2.52264eca.chunk.js.LICENSE.txt": "/Minhajuddink7/image-gallery/static/js/2.52264eca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf09eece.js",
+    "static/js/2.52264eca.chunk.js",
+    "static/css/main.832c525a.chunk.css",
+    "static/js/main.246ce329.chunk.js"
+  ]
+}
