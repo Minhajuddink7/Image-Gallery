@@ -1,0 +1,5 @@
+.custom-styles {
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+  justify-items: center;
+  margin: 20px 10px;
+}
