@@ -2,7 +2,6 @@
   "name": "image-gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Minhajuddink7/Image-Gallery",
   "engines": {
     "node": "10.18.0",
     "npm": "6.13.4"
